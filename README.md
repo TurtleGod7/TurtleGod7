@@ -11,9 +11,14 @@ Hi, I'm a programmer from the DFW metroplex.<br>I know Python, and I'm learning 
 ![](https://github-readme-stats.vercel.app/api?username=TurtleGod7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TurtleGod7&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TurtleGod7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TurtleGod7&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TurtleGod7&icon=0&color=0)](https://visitcount.itsvg.in)
+
